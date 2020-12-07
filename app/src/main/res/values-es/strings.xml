@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nota aCengizhanKarabel</string>
+    <string name="action_settings">Configuración</string>
+    <string name="action_add">Add</string>
+    <string name="description_hint">Descripción</string>
+    <string name="settings_title">Configuración</string>
+    <string name="title_hint">Título</string>
+    <string name="theme_light">Light</string>
+    <string name="idea_text">Idea</string>
+    <string name="important_text">Important</string>
+    <string name="todo_text">To do</string>
+    <string name="theme_dark">Dark</string>
+    <string name="ok_button">OK</string>
+    <string name="hello_world">Hello My World</string>
+    <string name="theme_title">Theme</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="button_done">Done</string>
+
+    //translate
+    <string name="add_new_note">Agregar unanueva nota</string>
+    <string name="your_note">Su nota</string>
+
+
+</resources>
